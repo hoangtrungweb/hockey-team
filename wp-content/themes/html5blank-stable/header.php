@@ -35,7 +35,7 @@
 	    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/superfish.css" type="text/css">
 	    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/superfish-navbar.css" type="text/css">
 	    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/superfish-vertical.css" type="text/css">
-	    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js" type="text/javascript"></script>
+	    
 	    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-noconflict.js" type="text/javascript"></script>
 	    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-migrate.min.js" type="text/javascript"></script>
 	    <script src="<?php echo get_template_directory_uri(); ?>/js/tabs-state.js" type="text/javascript"></script>
@@ -126,7 +126,7 @@
 	                                    <h1><?php bloginfo('name'); ?></h1>
 	                                </a>
 	                            </div>
-	                            <nav class="moduletable navigation  span8">
+	                            <nav class="moduletable navigation span8">
 	                            	<?php html5blank_nav(); ?>
 	                                <!-- <ul class="sf-menu" id="module-103">
 	                                    <li class="item-101 current active firstItem"><a href="">Home</a>
