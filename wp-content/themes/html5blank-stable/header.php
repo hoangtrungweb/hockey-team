@@ -127,8 +127,8 @@
 	                                </a>
 	                            </div>
 	                            <nav class="moduletable navigation  span8">
-	                            	<?php //html5blank_nav(); ?>
-	                                <ul class="sf-menu" id="module-103">
+	                            	<?php html5blank_nav(); ?>
+	                                <!-- <ul class="sf-menu" id="module-103">
 	                                    <li class="item-101 current active firstItem"><a href="">Home</a>
 	                                    </li>
 	                                    <li class="item-167 deeper dropdown parent"><a href="https://livedemo00.template-help.com/joomla_49489/index.php/about" class="sf-with-ul">About</a>
@@ -157,8 +157,8 @@
 	                                    </li>
 	                                    <li class="item-102 lastItem"><a href="https://livedemo00.template-help.com/joomla_49489/index.php/contact">Contact</a>
 	                                    </li>
-	                                </ul>
-	                                <select class="select-menu" id="menu-module-103">
+	                                </ul> -->
+	                                <!-- <select class="select-menu" id="menu-module-103">
 	                                    <option value="#">Navigate to...</option>
 	                                    <option value="https://livedemo00.template-help.com/joomla_49489/" selected="selected">Home</option>
 	                                    <option value="https://livedemo00.template-help.com/joomla_49489/index.php/about">About</option>
@@ -172,7 +172,7 @@
 	                                    <option value="https://livedemo00.template-help.com/joomla_49489/index.php/news">News</option>
 	                                    <option value="https://livedemo00.template-help.com/joomla_49489/index.php/blog">Blog</option>
 	                                    <option value="https://livedemo00.template-help.com/joomla_49489/index.php/contact">Contact</option>
-	                                </select>
+	                                </select> -->
 
 	                                <script>
 	                                    // initialise plugins
